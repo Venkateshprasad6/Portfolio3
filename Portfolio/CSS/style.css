@@ -1,0 +1,105 @@
+/* * {
+  margin: 0;
+  z-index: 1;
+}
+body{
+  background-image: url("developer.jpg");
+
+}
+nav {
+  display: flex;
+  align-items: center;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.container {
+  margin: 20px;
+  height: 100%;
+  /* background-color: blue; */
+/* }
+
+nav ul li {
+  color: wheat;
+  font-size: 25px;
+  display: inline-block;
+  padding: 20px 10px;
+}
+li:hover     {
+    background-color: red;
+    z-index: 2;
+} */
+
+
+
+
+/* .content {
+  margin: auto;
+  display: inline-block;
+  color: wheat;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  padding: 25px;
+  margin-left: 50px;
+}
+
+.content:hover{
+    background-color: red;
+
+} */
+
+/* .first {
+    margin: 40px;
+    align-items: center;
+    justify-content: center;
+    font-size: 10px;
+    color: white;
+}
+
+ .orange {
+    color:orange;
+} */ 
+
+
+.hero-section {
+    background-color: #f8f9fa;
+    padding: 120px 0;
+  }
+
+  .project-card {
+    transition: transform 0.3s ease;
+    margin-bottom: 30px;
+  }
+
+  .project-card:hover {
+    transform: translateY(-10px);
+  }
+
+  .skill-badge {
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+
+  .social-icon {
+    font-size: 1.5rem;
+    margin-right: 15px;
+    color: #212529;
+  }
+
+  .social-icon:hover {
+    color: #0d6efd;
+  }
+
+  footer {
+    padding: 50px 0;
+    background-color: #f8f9fa;
+  }
+
+  .nav-link {
+    font-weight: 500;
+  }
+
+  .active {
+    color: #0d6efd !important;
+  }
+
